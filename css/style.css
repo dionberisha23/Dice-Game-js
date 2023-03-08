@@ -1,21 +1,35 @@
-.color {
-    background-color: grey;
-    margin: 0;
 
-}
 #winner-container {
     text-align: center;
     margin: 3rem auto 5rem auto;
     color: rgb(255, 255, 255);
-    
+}
+#dice-container {
+    text-align: center;
+}
+#bottom-container {
+    text-align: center;
+    margin-top: 3rem;
+    background-color: #BE1C1B;
+    margin-bottom: 0;
+    width: 100%;
+    position: relative;
+    top: 47px;
+
+}
+body {
+    height: 100%;
+}
+
+.color {
+    background-color: grey;
+    margin: 0;   
 }
 h1{
     padding: 20px;
 
 }
-#dice-container {
-    text-align: center;
-}
+
 .fa-10x{
     color: rgb(191, 27, 27);
 }
@@ -35,17 +49,7 @@ h1{
     font-size: 80%;
     margin-bottom: 0;
 }
-#bottom-container {
-    text-align: center;
-    margin-top: 3rem;
-    background-color: #BE1C1B;
-    margin-bottom: 0;
-    width: 100%;
 
-}
 .row {
     width: 100%;
-}
-body {
-    height: 100%;
 }
