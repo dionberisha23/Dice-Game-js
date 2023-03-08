@@ -1,0 +1,51 @@
+.color {
+    background-color: grey;
+    margin: 0;
+
+}
+#winner-container {
+    text-align: center;
+    margin: 3rem auto 5rem auto;
+    color: rgb(255, 255, 255);
+    
+}
+h1{
+    padding: 20px;
+
+}
+#dice-container {
+    text-align: center;
+}
+.fa-10x{
+    color: rgb(191, 27, 27);
+}
+.col-lg-6{
+    margin: auto auto 3rem auto;
+    padding-left: 0;
+}
+.players{
+    color: white;
+}
+.fa-2x {
+    color: white;
+    padding: 30px;
+}
+.copyright {
+    color: white;
+    font-size: 80%;
+    margin-bottom: 0;
+}
+#bottom-container {
+    text-align: center;
+    margin-top: 3rem;
+    background-color: #BE1C1B;
+    margin-bottom: 0;
+    width: 100%;
+
+}
+.row {
+    width: 100%;
+}
+body {
+    height: 100%;
+}
